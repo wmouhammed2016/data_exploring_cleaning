@@ -1,0 +1,11 @@
+# Ignoring all claude related folders
+.claude
+
+# Ignore MacOS related documents
+GitHub_Repo_From_Terminal_Guide.docx
+
+# Ignore data files
+*.csv
+
+# Ignore venv folders
+.venv
