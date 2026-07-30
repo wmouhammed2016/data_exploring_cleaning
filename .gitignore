@@ -3,9 +3,7 @@
 
 # Ignore MacOS related documents
 GitHub_Repo_From_Terminal_Guide.docx
-
-# Ignore data files
-*.csv
+notes.md
 
 # Ignore venv folders
 .venv
