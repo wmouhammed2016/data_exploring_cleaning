@@ -4,4 +4,3 @@
 * [ ] Importing the exported data into the data visualization notebook.
 * [ ] Start explaining the visualization stuff.
 * [ ] End with the how to tell storey using data.
-* [ ]
